@@ -4,11 +4,11 @@
 
 
 ### Tutorial for replacing new tab and homepage icons:
-> https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/
 > Resources in folder "chrome" (place folder directly in Firefox profile directory).
+> https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/
 
 
 
 ### Tutorial to replace Firefox executable icons:
-> https://www.wikihow.com/Change-Firefox-Icons
 > Resources in folder "ico". Shortcut icons can be directly replaced (ItweakU is optional).
+> https://www.wikihow.com/Change-Firefox-Icons
