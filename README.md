@@ -10,5 +10,5 @@
 
 
 ### Tutorial to replace Firefox executable icons:
-> Resources in folder "ico". Shortcut icons can be directly replaced (ItweakU is optional).
+> Resources in folder "ico". Shortcut icons can be directly replaced (ItweakU is optional - in Windows, right click shortcut → properties → general → change icon).
 > https://www.wikihow.com/Change-Firefox-Icons
