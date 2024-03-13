@@ -1,6 +1,6 @@
 
 
-/* Default tab logo */
+/* Default tab icon */
 .tabbrowser-tab[label^="New Tab"] .tab-icon-image {
     background: url("NikoFox.png") !important;
     background-repeat: no-repeat !important;
@@ -8,5 +8,15 @@
     margin-right: 3.5px !important;
     padding-left: 16px !important;
     width: 0 !important;
+}
+
+/* Default private tab icon */
+.tabbrowser-tab[label^="New Private Tab"] .tab-icon-image {
+  background: url("IncogNiko.png") !important;
+  background-repeat: no-repeat !important;
+  background-size: 16px !important;
+  margin-right: 3.5px !important;
+  padding-left: 16px !important;
+  width: 0 !important;
 }
 

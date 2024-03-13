@@ -2,20 +2,31 @@
 
 /* Change home screen logo */
 @-moz-document url(about:newtab), url(about:home){
-
-    /*Set image*/
     .logo-and-wordmark > .logo{
      background-image: url("NikoFox.png") !important;
     }
-    
-    /*Set custom text*/
-    /*
     .logo-and-wordmark > .wordmark{
       background: none !important;
       width: unset !important;
     }
     .logo-and-wordmark > .wordmark::before{
-      content: "Some text here";
+      content: "NikoFox";
       font-size: 40pt;
-    }*/
+    }
   }
+
+/* Change incognito home screen logo */
+@-moz-document url(about:privatebrowsing), url(about:home){
+  .logo-and-wordmark > .logo{
+   background-image: url("IncogNiko.png") !important;
+  }
+  .logo-and-wordmark > .wordmark{
+    background: none !important;
+    width: unset !important;
+  }
+  .logo-and-wordmark > .wordmark::before{
+    content: "IncogNiko";
+    font-size: 40pt;
+  }
+}
+
