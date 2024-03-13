@@ -1,3 +1,4 @@
-Do not copy, share, or adapt NikoFox.png or the contents of ico without contacting @fruttymoment for permission. I have edited and redistributed these files under presumed permission, and am not an owner of the rights to these.
+Do not copy, share, or adapt NikoFox.png or the contents of ico without contacting @fruttymoment for permission.
+I have edited and redistributed these files under presumed permission, and am not an owner of the rights to these.
 
 CSS code bodged together from various r/FirefoxCSS sources.
