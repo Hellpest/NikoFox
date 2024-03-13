@@ -1,0 +1,12 @@
+
+
+/* Default tab logo */
+.tabbrowser-tab[label^="New Tab"] .tab-icon-image {
+    background: url("NikoFox.png") !important;
+    background-repeat: no-repeat !important;
+    background-size: 16px !important;
+    margin-right: 3.5px !important;
+    padding-left: 16px !important;
+    width: 0 !important;
+}
+

@@ -1,0 +1,21 @@
+
+
+/* Change home screen logo */
+@-moz-document url(about:newtab), url(about:home){
+
+    /*Set image*/
+    .logo-and-wordmark > .logo{
+     background-image: url("NikoFox.png") !important;
+    }
+    
+    /*Set custom text*/
+    /*
+    .logo-and-wordmark > .wordmark{
+      background: none !important;
+      width: unset !important;
+    }
+    .logo-and-wordmark > .wordmark::before{
+      content: "Some text here";
+      font-size: 40pt;
+    }*/
+  }
