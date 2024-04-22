@@ -5,7 +5,8 @@
 
 ### Tutorial for replacing new tab and homepage icons:
 > Resources in folder "chrome" (place folder directly in Firefox profile directory).
-> https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/
+> Reddit: https://www.reddit.com/r/FirefoxCSS/comments/73dvty/tutorial_how_to_create_and_livedebug_userchromecss/
+> Alternate: https://www.userchrome.org/how-create-userchrome-css.html (use provided files instead of creating your own)
 
 
 
