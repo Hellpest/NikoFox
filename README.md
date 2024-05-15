@@ -5,7 +5,7 @@
 <br>
 
 <p float="left">
-  <img src="https://imgur.com/AmtpXA5.png" width=512><br>
+  <img src="https://repository-images.githubusercontent.com/771696922/ff22bd86-b698-4d5a-993c-2a0b574fc64b" width=512><br>
   <img src="https://github.com/Hellpest/NikoFox/blob/main/ico/NikoFox.ico" width=128>
   <img src="https://github.com/Hellpest/NikoFox/blob/main/ico/IncogNiko.ico" width=128>
   <img src="https://github.com/Hellpest/NikoFox/blob/main/ico/NikoFoxPage.ico" width=128>
