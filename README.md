@@ -1,6 +1,6 @@
 # Firefox custom CSS to replace tab and homepage logo with Niko (OneShot) art by @fruttymoment  
 ## Source and all credit to:  
-> https://fruttymoment.tumblr.com/post/743405477115936768/firefox-niko-has-became-real-browse-some-pancakes  
+> https://fruttymoment.tumblr.com/post/746949134076067840/
 
 <br>
 
