@@ -3,6 +3,9 @@
 > https://fruttymoment.tumblr.com/post/743405477115936768/firefox-niko-has-became-real-browse-some-pancakes  
   
   
+## !["Example image."](https://imgur.com/AmtpXA5.png)
+!["NikoFox."](https://github.com/Hellpest/NikoFox/blob/main/chrome/NikoFox.png) !["IncogNiko."](https://github.com/Hellpest/NikoFox/blob/main/chrome/IncogNiko.png)
+  
   
 ### Tutorial for replacing new tab and homepage icons:  
 > Resources in folder "chrome" (place folder directly in Firefox profile directory)  
