@@ -4,7 +4,7 @@
   
   
 ## !["Example image."](https://imgur.com/AmtpXA5.png)
-!["NikoFox."](https://github.com/Hellpest/NikoFox/blob/main/chrome/NikoFox.png) !["IncogNiko."](https://github.com/Hellpest/NikoFox/blob/main/chrome/IncogNiko.png)
+!["NikoFox."](https://github.com/Hellpest/NikoFox/blob/main/chrome/NikoFox.png?w=256) !["IncogNiko."](https://github.com/Hellpest/NikoFox/blob/main/chrome/IncogNiko.png?w=256)
   
   
 ### Tutorial for replacing new tab and homepage icons:  
